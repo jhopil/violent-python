@@ -1,0 +1,4 @@
+dict
+abcdefg
+1234
+pwd
